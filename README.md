@@ -20,4 +20,4 @@ This wouldn't be possible without StackOverflow, great people of internet and He
 ## Dependencies
 
 * Find Jasmin doc [here](https://jasmine.github.io/ "click me")
-* The original [repository](https://github.com/udacity/frontend-nanodegree-feedreader"click me")
+* The original [repository](https://github.com/udacity/frontend-nanodegree-feedreader "click me")
